@@ -1,0 +1,83 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.miramicodigo.prueba_proyecto.ParametrosFragment">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16sp"
+            android:layout_marginTop="32dp"
+            android:text="@string/dia"
+            android:textColor="@color/primary_text"
+            android:textSize="@dimen/parametro"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16sp"
+            android:text="@string/dia1"
+            android:textColor="@color/primary_text"
+            android:textSize="@dimen/parametro"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16sp"
+            android:text="@string/dia2"
+            android:textColor="@color/primary_text"
+            android:textSize="@dimen/parametro"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16sp"
+            android:text="@string/dia3"
+            android:textColor="@color/primary_text"
+            android:textSize="@dimen/parametro"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16sp"
+            android:text="@string/dia4"
+            android:textColor="@color/primary_text"
+            android:textSize="@dimen/parametro"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16sp"
+            android:text="@string/dia5"
+            android:textColor="@color/primary_text"
+            android:textSize="@dimen/parametro"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16sp"
+            android:text="@string/dia6"
+            android:textColor="@color/primary_text"
+            android:textSize="@dimen/parametro"
+            android:textStyle="italic" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/diablada2" />
+    </LinearLayout>
+
+</FrameLayout>

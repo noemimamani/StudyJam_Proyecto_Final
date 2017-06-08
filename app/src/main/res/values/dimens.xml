@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titulo">38sp</dimen>
+    <dimen name="uno">22sp</dimen>
+    <dimen name="dos">22sp</dimen>
+    <dimen name="tres">22sp</dimen>
+    <dimen name="cuatro">22sp</dimen>
+    <dimen name="cinco">22sp</dimen>
+    <dimen name="seis">22sp</dimen>
+    <dimen name="siete">22sp</dimen>
+    <dimen name="izquierdo">60sp</dimen>
+    <dimen name="derecho">60sp</dimen>
+    <dimen name="alinear">40sp</dimen>
+    <dimen name="alto">10sp</dimen>
+    <dimen name="alto2">30sp</dimen>
+    <dimen name="linea">15sp</dimen>
+    <dimen name="parametro">15dp</dimen>
+    <dimen name="tamaño">25dp</dimen>
+    <dimen name="tamaño2">20dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="item">15dp</dimen>
+</resources>
